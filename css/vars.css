@@ -1,0 +1,14 @@
+:root {
+    /* color */
+    --primary:#6B40BA;
+    --gray1:#888;
+
+    /* margin */
+    --sectionM:188px;
+    --h3M:120px;
+    --partM:160px;
+
+    /* text */
+    --text1:20px;
+
+}
